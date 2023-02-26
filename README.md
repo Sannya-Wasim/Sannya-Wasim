@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sannya Wasim</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 # My Bio
 <p>Hey there! It's Sannya here. I am pursuing Bachelors in Software Engineering.
