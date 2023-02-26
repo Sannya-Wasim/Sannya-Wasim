@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sannya Wasim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+# My Bio
+<p>Hey there! It's Sannya here. I am pursuing Bachelors in Software Engineering.
+
+But I am a Tech Enthusiast and Inquisitive fellow exploring the world of web.
+
+I have experience working with HTML, CSS, JavaScript, React, MongoDB, PHP and Python.
+
+Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field. I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team."</p>
+
 - 🔭 I’m currently working on **Node JS**
 
 - 🌱 I’m currently learning **MERN Stack Development.**
