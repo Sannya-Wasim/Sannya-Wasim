@@ -46,7 +46,5 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 ## 📌 Other Softwares
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sannya-Wasim&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sannya-Wasim&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sannya-Wasim&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
