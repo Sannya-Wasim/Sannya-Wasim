@@ -13,6 +13,12 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 
 - 🌱 I’m currently learning **MERN Stack Development.**
 
+- 🌱 I’m a Frontend Manager at **Artificial Intelligence Club.**
+
+- 🌱 I’m a Frontend Mentor at **DevSpace Community-NEDUET.**
+
+- 🌱 I’m currently a Bytewise fellow in **MERN Stack Domain.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Sannya-Wasim](https://github.com/Sannya-Wasim)
 
 - 📫 How to reach me **sannya.wasim01@gmail.com**
