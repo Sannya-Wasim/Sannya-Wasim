@@ -19,6 +19,8 @@ Currently, I am seeking an internship as a Front-end Developer where I can conti
 
 - 🌱 I’m currently a Bytewise fellow in **MERN Stack Domain.**
 
+- 🔭 I’m currently working as Web Developer internee at **UTech Services**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Sannya-Wasim](https://github.com/Sannya-Wasim)
 
 - 📫 How to reach me **sannya.wasim01@gmail.com**
