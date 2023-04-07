@@ -7,7 +7,7 @@ But I am a Tech Enthusiast and Inquisitive fellow exploring the world of web.
 
 I have experience working with HTML, CSS, JavaScript, React, MongoDB, PHP and Python.
 
-Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field. I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team."</p>
+Currently, I am seeking an internship as a Front-end Developer where I can continue to develop my skills, work on exciting projects, and learn from experienced professionals in the field. I am eager to contribute my talents to a dynamic and innovative company, and I am confident that I would be a valuable asset to any team.</p>
 
 - 🔭 I’m currently working on **Node JS**
 
